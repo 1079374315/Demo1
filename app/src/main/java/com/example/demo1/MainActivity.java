@@ -10,12 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //main_11
-        //main_11.1
-        //f11
-        //f11.1
-        //f12
-        //f12.1
-        //f12.2
+        //main_
     }
 }
